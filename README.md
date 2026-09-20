@@ -101,8 +101,6 @@ A sandbox for funnel, cohort, and experimentation analysis on real datasets.
 </tr>
 </table>
 
-> 📌 Pin these four — they're the first thing a recruiter sees, whichever track they're screening for.
-
 ---
 
 ### 🔍 Product teardowns
