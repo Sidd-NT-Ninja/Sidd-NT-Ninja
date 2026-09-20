@@ -13,7 +13,7 @@
 
 ---
 
-### 🧭 The pitch, in one line
+### 🧭 About Me, in one line
 
 I've spent 7 years owning complex, cross-functional delivery end-to-end — which means I've lived on both sides of the table: running the program *and* making the product/process calls inside it. I now build the AI systems that do formally what I used to do by instinct, backed by a **PG Diploma in AI-ML from IIT Delhi**.
 
